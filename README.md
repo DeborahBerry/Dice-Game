@@ -1,15 +1,15 @@
 # 🎲 Dice Game
 
-A fun two-player dice game built using HTML, CSS, and JavaScript. The first player to reach a score of 100 wins!
-
+A fun two-player dice game built using HTML, CSS, and JavaScript.
+This project is designed to demonstrate interactive game mechanics and dynamic DOM manipulation.
 
 ## ✨ Features
 
-- Realistic dice roll with images
-- Turn-based logic
-- Responsive UI
-- Lightweight and fully client-side
-- No frameworks or libraries used
+- 🎲 Simulated dice rolling with images
+- 🔁 Turn-based play for two players
+- 💾 "Hold" option to save score
+- 🏆 Win condition at 100 points
+- 💡 Built without external libraries or frameworks
 
 ## 🔧 Technologies Used
 
@@ -28,4 +28,4 @@ A fun two-player dice game built using HTML, CSS, and JavaScript. The first play
 
 ## 📜 License
 
-Free to use for personal and educational projects.
+**🤝 Free to use for personal and educational projects**
