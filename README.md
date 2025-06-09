@@ -19,11 +19,11 @@ This project is designed to demonstrate interactive game mechanics and dynamic D
   
 ## 🧠 How to Play
 
-1. Two players take turns.
+1. Two players take turns
 2. On each turn, a player rolls the dice:
-   - If the player rolls a `1`, they lose their turn and score.
-   - If the player rolls any other number, it is added to their current score.
-3. The player can choose to **Hold** to save their current score and pass the turn.
+   - If the player rolls a `1`, they lose their turn and score
+   - If the player rolls any other number, it is added to their current score
+3. The player can choose to **Hold** to save their current score and pass the turn
 4. The first player to reach **100 points** wins the game.
 
 ## 📜 License
